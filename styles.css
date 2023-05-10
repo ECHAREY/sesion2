@@ -1,0 +1,41 @@
+
+body{
+    text-align: center; 
+    font-family: "Arial";
+    color: rgb(16, 0, 109);
+    background-color: rgb(194, 222, 255);
+    margin:0px auto;
+}
+.img_matcha1 {
+    border: 2px solid #ddd;
+    border-radius: 24px;
+    padding: 5px;
+    width: 250px;
+  }
+  .img_matcha2 {
+    border: 2px solid #bdbdbd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+  }
+  img:hover {
+    border: 2px solid #bdbdbd;
+    border-radius: 14px;
+    padding: 5px;
+    width: 150px;
+  }
+  div{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  h1{
+    justify-content: center;
+    text-align: center; 
+    font-family: "Arial";
+    color: rgb(16, 0, 109);
+    background-color: rgb(194, 222, 255); 
+  }
